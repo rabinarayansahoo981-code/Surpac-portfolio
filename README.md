@@ -111,12 +111,14 @@ Heap level             (https://github.com/rabinarayansahoo981-code/Surpac-portf
 ## step 1 - create drillhole database
 
          created a drillhole database using SURPAC file function.
-[screenshots]
+[screenshots - https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/19ebd787f7a4c1c32f3d0f9a381313a3aa2136da/Screenshot%202026-07-21%20223710.png]
 
 ## step 2 - Import Drillhole Database
 
          Imported collar, survey, assay, and geoology tables into surpac.
-[screenshots]
+[screenshots - ]
+
+[screenshots - https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/19ebd787f7a4c1c32f3d0f9a381313a3aa2136da/Screenshot%202026-07-21%20223506.png]
 
 ## Database validation
          Validated the imported drillhole database.
@@ -125,34 +127,34 @@ Heap level             (https://github.com/rabinarayansahoo981-code/Surpac-portf
 ## step 4 - Display drillholes
 
          Visualized drillholes in three-dimensional space to understand the spatial distribution of mineralization.
-[screenshots]
+[screenshots - https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/19ebd787f7a4c1c32f3d0f9a381313a3aa2136da/Screenshot%202026-07-21%20223920.png]
 
 ## step 5 - Create cross sections
 
          generated geological sections perpendicular to the ore trend  for interpretion.
-[screenshots]
+[screenshots - https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/19ebd787f7a4c1c32f3d0f9a381313a3aa2136da/Screenshot%202026-07-21%20224050.png]
 
 ## step 6 - geological interpretetion and digitization of ore boundaries
 
          Interpreted Ore contacts using lithogical and assay information.
 
          Digitized ore outlines on each geological section.
-[screenshots]
+[screenshots - https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/19ebd787f7a4c1c32f3d0f9a381313a3aa2136da/Screenshot%202026-07-21%20224146.png]
 
 ## step 7 - Generate wireframe
 
           Connected interpreted sections to construct a closed 3D orebody wireframe.
-[screenshots]
+[screenshots - https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/19ebd787f7a4c1c32f3d0f9a381313a3aa2136da/Screenshot%202026-07-18%20081109.png]
 
 ## step 9 - Final Ore Body Model
 
           Generated the final  three-dimensional orebody.
-[screenshots]
+[screenshots - https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/19ebd787f7a4c1c32f3d0f9a381313a3aa2136da/Screenshot%202026-07-21%20224309.png]
 
 ## step 10  - Validation
 
           validate the created orebody model to ensure an error free model.
-[screenshots]
+[screenshots - https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/19ebd787f7a4c1c32f3d0f9a381313a3aa2136da/Screenshot%202026-07-21%20231036.png]
 
 
 ## Results
