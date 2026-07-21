@@ -12,9 +12,9 @@ GEOVIA SURPAC(Demo version provided by MCL,Hingula O.C.P)
 
 
 ## Input Data/
-Original ground level(link)
+Original ground level(https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/3b15a88a6207ebddc3bd2dfdff8038b94a92c914/ogl_hocp%20(2).CSV)
 
-Heap level(link)
+Heap level(https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/3b15a88a6207ebddc3bd2dfdff8038b94a92c914/heap_hocp.CSV)
 ## workflow
 1.Import survey data of both file.
 
