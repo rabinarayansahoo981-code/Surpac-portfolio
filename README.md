@@ -125,38 +125,35 @@ Heap level             (https://github.com/rabinarayansahoo981-code/Surpac-portf
 
 [screenshots - https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/19ebd787f7a4c1c32f3d0f9a381313a3aa2136da/Screenshot%202026-07-21%20223506.png]
 
-## step 3 - Database validation
-         Validated the imported drillhole database.
-[screenshots -]
 
-## step 4 - Display drillholes
+## step 3 - Display drillholes
 
          Visualized drillholes in three-dimensional space to understand the spatial distribution of mineralization.
 [screenshots - https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/19ebd787f7a4c1c32f3d0f9a381313a3aa2136da/Screenshot%202026-07-21%20223920.png]
 
-## step 5 - Create cross sections
+## step 4 - Create cross sections
 
          generated geological sections perpendicular to the ore trend  for interpretion.
 [screenshots - https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/19ebd787f7a4c1c32f3d0f9a381313a3aa2136da/Screenshot%202026-07-21%20224050.png]
 
-## step 6 - geological interpretetion and digitization of ore boundaries
+## step 5 - geological interpretetion and digitization of ore boundaries
 
          Interpreted Ore contacts using lithogical and assay information.
 
          Digitized ore outlines on each geological section.
 [screenshots - https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/19ebd787f7a4c1c32f3d0f9a381313a3aa2136da/Screenshot%202026-07-21%20224146.png]
 
-## step 7 - Generate wireframe
+## step 6 - Generate wireframe
 
           Connected interpreted sections to construct a closed 3D orebody wireframe.
 [screenshots - https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/19ebd787f7a4c1c32f3d0f9a381313a3aa2136da/Screenshot%202026-07-18%20081109.png]
 
-## step 9 - Final Ore Body Model
+## step 7 - Final Ore Body Model
 
           Generated the final  three-dimensional orebody.
 [screenshots - https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/19ebd787f7a4c1c32f3d0f9a381313a3aa2136da/Screenshot%202026-07-21%20224309.png]
 
-## step 10  - Validation
+## step 8  - Validation
 
           validate the created orebody model to ensure an error free model.
 [screenshots - https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/19ebd787f7a4c1c32f3d0f9a381313a3aa2136da/Screenshot%202026-07-21%20231036.png]
