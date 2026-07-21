@@ -1,0 +1,38 @@
+                           VOLUME BETWEEN DTM SURFACES              Jul 08, 2026
+
+
+
+
+Upper surface: project_heap.dtm
+Upper surface object ID: 1
+Upper surface trisolation ID: 1
+Lower surface: project_ogl.dtm
+Lower surface object ID: 1
+Lower surface trisolation ID: 1
+
+Boundary file: project_heap_bdry.str
+Boundary string: 8
+Number of segments: 1
+Density: 1
+
+Segment Number 1 of 1
+Density: 1.000
+Surface to surface volume: 444713.41
+Nett Tonnage: 444713.41
+Boundary string horizontal area check: 57880.72
+Total surface area: 116825.28
+DTM Summary
+                                           Upper Surface             Lower Surface  
+----------------------------------------------------------------------------------
+Purpose                        Reformat of heap_hocp.CSV  Reformat of ogl_hocp.CSV  
+Dtm File                                project_heap.dtm           project_ogl.dtm  
+Number OF Data Points                               1007                       875  
+Number OF Triangles                                 1890                      1455  
+Z Datum                                           110.00                    110.00  
+Z Min                                             111.65                    113.67  
+Z Max                                             132.01                    118.05  
+Volume To Datum                                775713.06                 330999.65  
+Surface Area OF Dtm Triangles                   58873.38                  57951.90  
+Horizontal Area                                 57880.72                  57880.72  
+Segment Number                                         1                         1  
+                                                                     Page 1 of 1
