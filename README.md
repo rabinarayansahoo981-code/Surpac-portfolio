@@ -1,14 +1,14 @@
 
-# Projects/
-01_DTM_to_DTM Volume Calculation/
+# Projects
+       01_DTM_to_DTM Volume Calculation
 ## Project overview
-This project demonstrates how to calculate the net volume between two digital terrain models(DTMs) using geovia surpac.
+       This project demonstrates how to calculate the net volume between two digital terrain models(DTMs) using geovia surpac.
 ## Objective
-Create two DTMs using the survey Data.
+       Create two DTMs using the survey Data.
 
-Calculate the net volume between them.
+       Calculate the net volume between them.
 ## Software used
-GEOVIA SURPAC(Demo version provided by MCL,Hingula O.C.P)
+       GEOVIA SURPAC(Demo version provided by MCL,Hingula O.C.P)
 
 
 ## Input Data/
@@ -16,17 +16,17 @@ Original ground level(https://github.com/rabinarayansahoo981-code/Surpac-portfol
 
 Heap level(https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/3b15a88a6207ebddc3bd2dfdff8038b94a92c914/heap_hocp.CSV)
 ## workflow
-1.Import survey data of both file.
+      1.Import survey data of both file.
 
-2.Create string files from the imported data.
+      2.Create string files from the imported data.
 
-3.Generate DTM 1.
+      3.Generate DTM 1.
 
-4.Generate DTM 2.
+      4.Generate DTM 2.
 
-5.Calculate the net volume.
+      5.Calculate the net volume.
 
-6.Export the report.
+      6.Export the report.
 ## Surpac_Files/
 1.string file 1(https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/522a2c43d7f30e06e228b793faa25c04926882e5/project_ogl.str)
 
@@ -50,8 +50,8 @@ Heap level(https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/3b1
 
 6.Volume Report(https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/676276d0368d7899336bb8324b1a75e003349c33/Screenshot%202026-07-10%20133915.png)
 ## Results
-1.Two DTMs are created sucessfully.
+      1.Two DTMs are created sucessfully.
 
-2.Net Volume report is Generated.
+      2.Net Volume report is Generated.
 
 
