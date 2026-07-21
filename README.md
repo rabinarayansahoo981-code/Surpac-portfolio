@@ -12,9 +12,9 @@
 
 
 ## Input Data/
-Original ground level(https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/3b15a88a6207ebddc3bd2dfdff8038b94a92c914/ogl_hocp%20(2).CSV)
+Original ground level  (https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/3b15a88a6207ebddc3bd2dfdff8038b94a92c914/ogl_hocp%20(2).CSV)
 
-Heap level(https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/3b15a88a6207ebddc3bd2dfdff8038b94a92c914/heap_hocp.CSV)
+Heap level             (https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/3b15a88a6207ebddc3bd2dfdff8038b94a92c914/heap_hocp.CSV)
 ## workflow
       1.Import survey data of both file.
 
@@ -28,30 +28,145 @@ Heap level(https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/3b1
 
       6.Export the report.
 ## Surpac_Files/
-1.string file 1(https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/522a2c43d7f30e06e228b793faa25c04926882e5/project_ogl.str)
+1.string file 1 (https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/522a2c43d7f30e06e228b793faa25c04926882e5/project_ogl.str)
 
-2.string file 2(https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/676276d0368d7899336bb8324b1a75e003349c33/project_heap.str)
+2.string file 2 (https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/676276d0368d7899336bb8324b1a75e003349c33/project_heap.str)
 
-3.DTM 1(https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/676276d0368d7899336bb8324b1a75e003349c33/project_ogl.dtm)
+3.DTM 1         (https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/676276d0368d7899336bb8324b1a75e003349c33/project_ogl.dtm)
 
-4.DTM 2(https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/676276d0368d7899336bb8324b1a75e003349c33/project_heap.dtm)
+4.DTM 2         (https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/676276d0368d7899336bb8324b1a75e003349c33/project_heap.dtm)
 
-5.Volume Report(https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/676276d0368d7899336bb8324b1a75e003349c33/volume_project.not)
+5.Volume Report (https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/676276d0368d7899336bb8324b1a75e003349c33/volume_project.not)
 ## Screenshots
-1.string file 1(https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/676276d0368d7899336bb8324b1a75e003349c33/Screenshot%202026-07-10%20114822.png)
+1.string file 1 (https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/676276d0368d7899336bb8324b1a75e003349c33/Screenshot%202026-07-10%20114822.png)
 
-2.string file 2(https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/676276d0368d7899336bb8324b1a75e003349c33/Screenshot%202026-07-10%20120017.png)
+2.string file 2 (https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/676276d0368d7899336bb8324b1a75e003349c33/Screenshot%202026-07-10%20120017.png)
 
-3.DTM 1(https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/676276d0368d7899336bb8324b1a75e003349c33/Screenshot%202026-07-10%20121140.png)
+3.DTM 1         (https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/676276d0368d7899336bb8324b1a75e003349c33/Screenshot%202026-07-10%20121140.png)
 
-4.DTM 2(https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/676276d0368d7899336bb8324b1a75e003349c33/Screenshot%202026-07-08%20132218.png)
+4.DTM 2         (https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/676276d0368d7899336bb8324b1a75e003349c33/Screenshot%202026-07-08%20132218.png)
 
-5.VALIDATION (https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/676276d0368d7899336bb8324b1a75e003349c33/Screenshot%202026-07-10%20083338.png)
+5.VALIDATION    (https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/676276d0368d7899336bb8324b1a75e003349c33/Screenshot%202026-07-10%20083338.png)
 
-6.Volume Report(https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/676276d0368d7899336bb8324b1a75e003349c33/Screenshot%202026-07-10%20133915.png)
+6.Volume Report (https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/676276d0368d7899336bb8324b1a75e003349c33/Screenshot%202026-07-10%20133915.png)
 ## Results
       1.Two DTMs are created sucessfully.
 
       2.Net Volume report is Generated.
 
+           ___________________________________end of project1___________________________________________________________
+
+## Project
+      02_Orebody_Modelling
+
+## Project overview
+       This project demonstrates the complete workflow of creating a three-dimensional ore body model from drill hole data using GEOVIA SURPAC.
+
+## Objectives
+       1.import and organize drillhole database.
+
+       2.Validate geological and survey data.
+
+       3.Display drillholes in 3D.
+
+       4.Interpret Ore Boundaries.
+
+       5.Generate a Closed 3D orebody wireframe.
+
+       6.Validate the final geological model.
+
+## Software used
+       GEOVIA SURPAC(Demo version provided by MCL,Hingula O.C.P)
+
+## Input Data
+1.collar()
+
+2.assay()
+
+3.survey()
+
+4.geology()
+
+## workflow
+
+       1.create the drillhole database and import the same.
+   
+       2.Validate the drillhole database.
+   
+       3.display of three dimensional drillhole.
+   
+       4.generation of cross-section.
+   
+       5.Geological interpretion.
+
+       6.ore Boundary Digitization.
+
+       7.Wireframe Generation.
+
+       8.create 3D ore body model from the wireframe through tringulation.
+
+      9.Validate the created 3D solid ore body model.
+
+## Methodology
+## step 1 - create drillhole database
+
+         created a drillhole database using SURPAC file function.
+[screenshots]
+
+## step 2 - Import Drillhole Database
+
+         Imported collar, survey, assay, and geoology tables into surpac.
+[screenshots]
+
+## Database validation
+         Validated the imported drillhole database.
+[screenshots]
+
+## step 4 - Display drillholes
+
+         Visualized drillholes in three-dimensional space to understand the spatial distribution of mineralization.
+[screenshots]
+
+## step 5 - Create cross sections
+
+         generated geological sections perpendicular to the ore trend  for interpretion.
+[screenshots]
+
+## step 6 - geological interpretetion and digitization of ore boundaries
+
+         Interpreted Ore contacts using lithogical and assay information.
+
+         Digitized ore outlines on each geological section.
+[screenshots]
+
+## step 7 - Generate wireframe
+
+          Connected interpreted sections to construct a closed 3D orebody wireframe.
+[screenshots]
+
+## step 9 - Final Ore Body Model
+
+          Generated the final  three-dimensional orebody.
+[screenshots]
+
+## step 10  - Validation
+
+          validate the created orebody model to ensure an error free model.
+[screenshots]
+
+
+## Results
+
+           Sucessfully imported and validated the geological database.
+           constructed geological interpretations from drillhole information.
+           generated a closed 3D orebody Wireframe.
+           produced a geological model suitable for block modelling and resource estimation.
+
+
+
+      ________________________End of Project 2______________________________________
+
+    
+
+ 
 
