@@ -53,8 +53,13 @@ Heap level             (https://github.com/rabinarayansahoo981-code/Surpac-portf
       1.Two DTMs are created sucessfully.
 
       2.Net Volume report is Generated.
+      
+      
 
-           ___________________________________end of project1___________________________________________________________
+           ___________________________________________________End of Project 1___________________________________________________________
+
+
+
 
 ## Project
       02_Orebody_Modelling
@@ -111,18 +116,18 @@ Heap level             (https://github.com/rabinarayansahoo981-code/Surpac-portf
 ## step 1 - create drillhole database
 
          created a drillhole database using SURPAC file function.
-[screenshots - https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/19ebd787f7a4c1c32f3d0f9a381313a3aa2136da/Screenshot%202026-07-21%20223710.png]
+[screenshots - https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/19ebd787f7a4c1c32f3d0f9a381313a3aa2136da/Screenshot%202026-021%20223710.png]
 
 ## step 2 - Import Drillhole Database
 
          Imported collar, survey, assay, and geoology tables into surpac.
-[screenshots - ]
+[screenshots - https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/9b07fcb680b160521753f0f7e3116655a1576a18/Screenshot%202026-21%20223327.png]  
 
 [screenshots - https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/19ebd787f7a4c1c32f3d0f9a381313a3aa2136da/Screenshot%202026-07-21%20223506.png]
 
-## Database validation
+## step 3 - Database validation
          Validated the imported drillhole database.
-[screenshots]
+[screenshots -]
 
 ## step 4 - Display drillholes
 
@@ -164,9 +169,11 @@ Heap level             (https://github.com/rabinarayansahoo981-code/Surpac-portf
            generated a closed 3D orebody Wireframe.
            produced a geological model suitable for block modelling and resource estimation.
 
+           
 
 
-      ________________________End of Project 2______________________________________
+
+      ___________________________________________________________End of Project 2_____________________________________________________
 
     
 
