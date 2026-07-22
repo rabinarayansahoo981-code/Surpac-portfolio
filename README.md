@@ -384,18 +384,17 @@ Composite.csv
        │   ├── DTM/
        │   ├── Solids/
        │   ├── BlockModel/
-       │   ├── Variography/
        │   └── Reports/
-       │
+       |
        ├── Screenshots/
-       │   ├── Drillholes.png
-       │   ├── Composite.png
-       │   ├── Histogram.png
-       │   ├── Variogram.png
-       │   ├── BlockModel.png
-       │   ├── GradeModel.png
-       │   ├── Validation.png
-       │   └── ResourceReport.png
+           ├── Drillholes.png
+           ├── Composite.png
+           ├── Histogram.png
+           ├── Variogram.png
+           ├── BlockModel.png
+           ├── GradeModel.png
+           ├── Validation.png
+           └── ResourceReport.png
 
 
 
