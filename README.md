@@ -282,7 +282,7 @@ Composite.csv
 
              Database integrity checks were performed to ensure consistency before modelling.
 
----screenshots------
+screenshots
 
 ## 2. Drillhole Compositing
 
