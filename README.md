@@ -294,7 +294,7 @@ Composite.csv
          - Handling residual intervals
          - Maintaining geological boundaries
 
----screenshots
+[screenshots](https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/c841343c3b58f06d003e69f5325205b26cb396f1/Screenshot%202026-07-20%20221615.png)
 
 ## 3. Exploratory Data Analysis
 
@@ -306,21 +306,30 @@ Composite.csv
         - Maximum grade
         - Mean
         - Median
-       - Standard deviation
-       - Coefficient of variation
-       - Histograms
-       - Frequency distribution
+        - Standard deviation
+        - Coefficient of variation
+        - Histograms
+        - Frequency distribution
 
----screenshots
+[screenshots](https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/c841343c3b58f06d003e69f5325205b26cb396f1/Screenshot%202026-07-20%20222653.png)
 
 
 ## 4. Block Model Creation
 
           A parent block model was generated using the geological limits of the deposit.
 
----screenshots
+[screenshots](https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/c841343c3b58f06d003e69f5325205b26cb396f1/Screenshot%202026-07-20%20224509.png)
 
-## 5. Grade Estimation
+## 5. Constrain file creation
+
+          
+
+[screenshots 1](https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/c841343c3b58f06d003e69f5325205b26cb396f1/Screenshot%202026-07-20%20230913.png)
+
+[Screenshots 2](https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/c841343c3b58f06d003e69f5325205b26cb396f1/Screenshot%202026-07-20%20230932.png)
+
+
+## 6. Grade Estimation
 
           Grades were estimated using interpolation techniques available in SURPAC.
 
@@ -329,16 +338,13 @@ Composite.csv
         - Inverse Distance Weighting (IDW)
         - Ordinary Kriging
         (here IDW Method is used for the grade estimation)
----screenshots
+[screenshots 1](https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/c841343c3b58f06d003e69f5325205b26cb396f1/Screenshot%202026-07-20%20232148.png)
 
-## 7. Block Model Validation
-
-          The estimated block model was validated to ensure that estimated grades reasonably represented the input composite data.
+[Screenshots 2](https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/c841343c3b58f06d003e69f5325205b26cb396f1/Screenshot%202026-07-20%20232209.png)
 
 
---- screenshots
 
-## 8. Resource Reporting
+## 7. Resource Reporting
 
           The validated block model was summarized into a mineral resource report.
 
