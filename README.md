@@ -12,9 +12,11 @@
 
 
 ## Input Data/
-Original ground level  (https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/3b15a88a6207ebddc3bd2dfdff8038b94a92c914/ogl_hocp%20(2).CSV)
+[Original ground level](https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/3b15a88a6207ebddc3bd2dfdff8038b94a92c914/ogl_hocp%20(2).CSV)  
 
-Heap level             (https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/3b15a88a6207ebddc3bd2dfdff8038b94a92c914/heap_hocp.CSV)
+[Heap level  ](https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/3b15a88a6207ebddc3bd2dfdff8038b94a92c914/heap_hocp.CSV)     
+
+
 ## workflow
       1.Import survey data of both file.
 
@@ -42,14 +44,21 @@ Heap level             (https://github.com/rabinarayansahoo981-code/Surpac-portf
 ## Screenshots
 1.[string file 1](https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/676276d0368d7899336bb8324b1a75e003349c33/Screenshot%202026-07-10%20114822.png) 
 
+
 2.[string file 2](https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/676276d0368d7899336bb8324b1a75e003349c33/Screenshot%202026-07-10%20120017.png) 
+
 
 3.[DTM 1 ](https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/676276d0368d7899336bb8324b1a75e003349c33/Screenshot%202026-07-10%20121140.png)       
 
-4.[DTM 2](https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/676276d0368d7899336bb8324b1a75e003349c33/Screenshot%202026-07-08%20132218.png)       
+4.[DTM 2](https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/676276d0368d7899336bb8324b1a75e003349c33/Screenshot%202026-07-08%20132218.png)  
+
+
 5.[VALIDATION](https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/676276d0368d7899336bb8324b1a75e003349c33/Screenshot%202026-07-10%20083338.png)    
 
+
 6.[Volume Report](https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/676276d0368d7899336bb8324b1a75e003349c33/Screenshot%202026-07-10%20133915.png) 
+
+
 ## Results
       1.Two DTMs are created sucessfully.
 
