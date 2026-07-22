@@ -116,7 +116,7 @@ Heap level             (https://github.com/rabinarayansahoo981-code/Surpac-portf
 ## step 1 - create drillhole database
 
          created a drillhole database using SURPAC file function.
-[screenshots - https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/19ebd787f7a4c1c32f3d0f9a381313a3aa2136da/Screenshot%202026-021%20223710.png]
+  [screenshots](https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/19ebd787f7a4c1c32f3d0f9a381313a3aa2136da/Screenshot%202026-021%20223710.png)
 
 ## step 2 - Import Drillhole Database
 
