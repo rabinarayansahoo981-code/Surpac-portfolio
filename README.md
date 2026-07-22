@@ -282,7 +282,7 @@ Composite.csv
 
              Database integrity checks were performed to ensure consistency before modelling.
 
-screenshots
+[screenshots](https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/c22cf673123c65186c86f18cf4d04cc8add765f1/Screenshot%202026-07-21%20223920.png)
 
 ## 2. Drillhole Compositing
 
