@@ -342,6 +342,8 @@ Composite.csv
 
 [Screenshots 2](https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/c841343c3b58f06d003e69f5325205b26cb396f1/Screenshot%202026-07-20%20232209.png)
 
+[Screenshots 3](https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/768f026667e80302e4d8065a4e852ac46f72b24b/Screenshot%202026-07-22%20192733.png)
+
 
 
 ## 7. Resource Reporting
@@ -362,7 +364,7 @@ Composite.csv
         
         - Contained metal
 
----screenshots
+[screenshots](https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/768f026667e80302e4d8065a4e852ac46f72b24b/Screenshot%202026-07-22%20191414.png)
 
 # Result
 
