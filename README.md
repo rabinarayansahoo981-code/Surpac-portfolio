@@ -8,8 +8,7 @@
 
        Calculate the net volume between them.
 ## Software used
-       GEOVIA SURPAC(Demo version provided by MCL,Hingula O.C.P)
-
+       GEOVIA SURPAC(Demo version) at Hingula OCP.
 
 ## Input Data/
 [Original ground level](https://github.com/rabinarayansahoo981-code/Surpac-portfolio/blob/3b15a88a6207ebddc3bd2dfdff8038b94a92c914/ogl_hocp%20(2).CSV)  
@@ -91,7 +90,7 @@
        6.Validate the final geological model.
 
 ## Software used
-       GEOVIA SURPAC(Demo version provided by MCL,Hingula O.C.P)
+       GEOVIA SURPAC(Demo version) at Hingula OCP.
 
 ## Input Data
 1.collar()
@@ -204,7 +203,7 @@
          - Visualize the final grade distribution in 3D
 
  ## Software used
-         GEOVIA SURPAC(Demo version provided by MCL,Hingula O.C.P)
+         GEOVIA SURPAC(Demo version) at Hingula OCP.
 
 
 ## Input Data
@@ -218,7 +217,7 @@
        Geological domains
        Composite intervals
 
-       Sample data used here are taken from UDEMY "GEOVIA SURPAC:COMPLETE TRAINING FROM SURVEY TO ESTIMATION"
+       **Sample data used here are taken from UDEMY "GEOVIA SURPAC:COMPLETE TRAINING FROM SURVEY TO ESTIMATION" Course**
 
        **Input File**
 Collar.csv
