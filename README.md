@@ -218,6 +218,8 @@
        Geological domains
        Composite intervals
 
+       Sample data used here are taken from UDEMY "GEOVIA SURPAC:COMPLETE TRAINING FROM SURVEY TO ESTIMATION"
+
        **Input File**
 Collar.csv
 
